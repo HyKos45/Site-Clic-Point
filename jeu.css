@@ -1,0 +1,10 @@
+.box {
+    background: rgb(201, 223, 6);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    border-radius: 50%;
+    top: 210px;
+    left: 210px;
+    cursor: pointer;
+}
